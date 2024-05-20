@@ -1,0 +1,39 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Circle outline -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#000000"
+        android:strokeWidth="2"
+        android:pathData="M100,10a90,90 0,1 1,-0.1,0z" />
+
+    <!-- North arrow -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M100,30L105,80L100,75L95,80z" />
+
+    <!-- South arrow -->
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M100,170L105,120L100,125L95,120z" />
+
+    <!-- East arrow -->
+    <path
+        android:fillColor="#388E3C"
+        android:pathData="M170,100L120,95L125,100L120,105z" />
+
+    <!-- West arrow -->
+    <path
+        android:fillColor="#FBC02D"
+        android:pathData="M30,100L80,95L75,100L80,105z" />
+
+    <!-- Center circle -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M100,95a5,5 0,1 1,-0.1,0z" />
+
+</vector>

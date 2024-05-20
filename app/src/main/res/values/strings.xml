@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">akseler dan magnet</string>
+    <string name="label_azimuth_string">Azimuth:</string>
+    <string name="label_pitch_string">Pitch:</string>
+    <string name="label_roll_string">Roll:</string>
+    <string name="value_format">%.2f</string>
+</resources>
